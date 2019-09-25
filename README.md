@@ -17,5 +17,5 @@
     5. Test the algorithm
     6. Build model and deploy to predict whether breast cell tissue is malignant or Benign by using SVC(Spport Vector Classifier)model
     
-    The below notebook aim is to achieving all these six steps
-  # [NoteBook](https://github.com/Sumithra-N/Breast-Cancer-Predictions/blob/master/BreastCancerPredictions.ipynb)
+    The notebook aim is to achieving all these six steps 
+    ## [NoteBook](https://github.com/Sumithra-N/Breast-Cancer-Predictions/blob/master/BreastCancerPredictions.ipynb)
