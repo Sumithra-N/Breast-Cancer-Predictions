@@ -1,14 +1,14 @@
 # Breast-Cancer-Predictions
 
-## bjective:
+## Objective:
  
 ### The repository is a learning exercise to:
 
     - Apply the fundamental concepts of machine learning from an available dataset
     - Evaluate and interpret my results and justify my interpretation based on observed data set
-    - Create notebooks that serve as computational records and document my thought process.
+    - Create notebook that serve as computational records and document my thought process.
 
-## The analysis is divided into six sections, saved in juypter notebooks in this repository
+## The analysis is divided into six sections, saved in juypter notebook in this repository
 
     1. Collecting the Data
     2. Data Wrangling
